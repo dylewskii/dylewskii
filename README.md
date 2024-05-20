@@ -29,7 +29,7 @@
 ### Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase,aws" />
   </a>
 </p>
 
