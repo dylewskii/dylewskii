@@ -36,7 +36,7 @@
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webpack,vscode,postman,jest,babel,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,webpack,vscode,postman,jest,babel,linux,bash,vite,pug,npm" />
   </a>
 </p>
 
