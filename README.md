@@ -1,9 +1,8 @@
-## Languages and Tools
 
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,tailwind,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,nextjs,tailwind,jquery" />
   </a>
 </p>
 
@@ -18,7 +17,7 @@
 ### Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </a>
 </p>
 
