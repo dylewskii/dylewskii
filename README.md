@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Alan 👋</h1>
-<h3 align="center">I'm a web developer from the UK.</h3> 
-
-
 ## Languages and Tools
 
 ### Frontend
